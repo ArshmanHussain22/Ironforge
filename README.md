@@ -53,7 +53,7 @@ IRONFORGE-GYM/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ironforge-gym.git
+git clone https://github.com/ArshmanHussain22/Ironforge.git
 ```
 
 Navigate into the project folder:
